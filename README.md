@@ -1,3 +1,4 @@
 ﻿# CSS Adicional
- Esta carpeta contiene código CSS para personalizar y mejorar la interfaz. 
+ Este archivo contiene código CSS para personalizar y mejorar la interfaz. 
+
 
